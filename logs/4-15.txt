@@ -1,0 +1,1 @@
+Today I learned alot about Visual Studio Code! I learned what the Insiders' Edition is, and that I can make a new file and a folder just by typing a slash in the file name logs\4-15.txt, and that I can turn wordwrap on with Alt+Z
