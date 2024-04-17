@@ -1,0 +1,1 @@
+Today I installed many extensions for Visual Studio Code. One of them is somewhat annoying, because it tries to autocomplete words I am typing into my log files.
