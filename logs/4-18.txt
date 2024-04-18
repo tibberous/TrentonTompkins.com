@@ -117,3 +117,14 @@ COMMON COMPILER OPTIONS
                default:  false
 
 You can learn about all of the compiler options at https://aka.ms/tsc
+
+To run TypeScript without the error:
+
+tsc : File C:\Users\moren\AppData\Roaming\npm\tsc.ps1 cannot be loaded. The file C:\Users\moren\AppData\Roaming\npm\tsc.ps1 is not digitally signed. You cannot run this script on the current system. For     
+more information about running scripts and setting execution policy, see about_Execution_Policies at https:/go.microsoft.com/fwlink/?LinkID=135170
+
+Get-ExecutionPolicy -List
+Set-ExecutionPolicy -ExecutionPolicy Bypass
+https://learn.microsoft.com/en-us/powershell/module/microsoft.powershell.core/about/about_execution_policies?view=powershell-7.4
+
+tsc --init
