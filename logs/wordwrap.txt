@@ -1,0 +1,1 @@
+Today I learned alot about Visual Studio Code! I learned what the Insiders' Edition is, and that I can make a new file
